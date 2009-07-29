@@ -1,0 +1,5 @@
+This code was originally written so that I could write a computer program to create submissions for a "fantasy track" game that was part of the 2007 World Championships in Osaka, Japan.  I needed some way to compare performances earlier in the year head-to-head so I could write a statistical model that could see how probable it was for one person to beat another in an event.  I wanted to be able to compute which events would be the "best bet" for being able to predict the winner.
+
+So I made two scripts to meet this goal.  The first translates a performance in an event into an IAAF score.  The second converts an IAAF score into a performance.
+
+I'm not sure the exact history of the IAAF scoring tables, but it seems that they might have something in common with the comuterized running formula of Jack Daniels?  Will have to check into later.
